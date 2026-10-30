@@ -1,0 +1,7 @@
+site,exposure,n,b,se,within_australian_range
+TESS (Norway),ai_companion,420,0.151,0.036,True
+AStRA new cohort (Greece),ai_companion,300,0.105,0.047,True
+Australia (measurement bursts),ai_companion,300,0.064,0.047,
+TESS (Norway),social_media,420,0.073,0.039,True
+AStRA new cohort (Greece),social_media,300,0.107,0.046,True
+Australia (measurement bursts),social_media,300,0.084,0.047,
