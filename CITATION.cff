@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "The Two-Clocks Bridge: do yearly and daily evidence on digital life and youth wellbeing agree?"
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT
+repository-code: "https://github.com/Vas08011980/two-clocks-bridge"
+url: "https://vas08011980.github.io/two-clocks-bridge/"
+authors:
+  - family-names: Stavropoulos
+    given-names: Vasileios
+    orcid: "https://orcid.org/0000-0001-6964-4662"
+    affiliation: "RMIT University"
+keywords:
+  - longitudinal cohorts
+  - ecological momentary assessment
+  - measurement bursts
+  - within-person effects
+  - equivalence testing
+  - digital media
+  - youth mental health
